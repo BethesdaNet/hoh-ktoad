@@ -1,6 +1,7 @@
 package things
 
 type Ktoad struct {
-	Name     string
-	Greeting string
+	Name        string
+	Greeting    string
+	Catchphrase string
 }
