@@ -1,0 +1,6 @@
+
+# Ignore IDE artifacts
+.idea/
+
+# Ignore build artifacts
+./ktoad
