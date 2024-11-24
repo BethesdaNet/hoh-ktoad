@@ -4,4 +4,5 @@ type Ktoad struct {
 	Name        string
 	Greeting    string
 	Catchphrase string
+	Something   int
 }
